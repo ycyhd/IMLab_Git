@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : IMLAB_F103C8.brd                              )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sun Mar 25 13:59:17 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / STM32F103X8/B_LQFP48_LQFP48P700 / LQFP48P700X700 at (204.850 -204.850)
+         Placed symbol:  J3 / HEADER8X1_HEADER8X1_HEADER8X1 / HEADER8X1 at (475.700 -408.000)
+         Placed symbol:  J4 / HEADER8X1_HEADER8X1_HEADER8X1 / HEADER8X1 at (599.700 -408.000)
+         Placed symbol:  J2 / HEADER4X1_HEADER4X1_HEADER4X1 / HEADER4X1 at (723.700 -208.000)
+         Placed symbol:  J1 / HEADER4X1_HEADER4X1_HEADER4X1 / HEADER4X1 at (847.700 -208.000)
+         Placed symbol:  J5 / HEADER4X1_HEADER4X1_HEADER4X1 / HEADER4X1 at (74.000 2475.717)
+         Placed symbol:  C4 / TCAPACTIOR_C1812_100UF / C1812 at (294.457 2354.457)
+         Placed symbol:  X1 / XTAL_HC49S_8M / HC49S at (692.220 2370.205)
+
+
+Placed 8 of 8 applicable (8 total) symbols.
+
+-----------------------------------------------------------------------
+

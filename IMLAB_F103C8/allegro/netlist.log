@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Apr-07-2018 at 16:10:01 }
+
+#1 WARNING(ORCAP-36006): Part Name "STM32F103X8/B_LQFP48_LQFP48P700X700_STM32F103X8/B_LQFP48" is renamed to "STM32F103X8/B_LQFP48_LQFP48P700".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... F:\IMLAB_GIT\IMLAB_F103C8\allegro/pstchip.dat
+
+Loading... F:\IMLAB_GIT\IMLAB_F103C8\allegro/pstchip.dat
+
+Loading... F:\IMLAB_GIT\IMLAB_F103C8\allegro/pstxprt.dat
+
+Loading... F:\IMLAB_GIT\IMLAB_F103C8\allegro/pstxnet.dat
+packaging the design view...

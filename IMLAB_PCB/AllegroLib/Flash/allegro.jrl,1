@@ -1,0 +1,19 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Sat May 05 14:12:01 2018
+\t (00:00:03)         Host=DESKTOP-UK3BTFG User=ycyhd Pid=9600 CPUs=8
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe F:\IMLab_Git\IMLAB_PCB\AllegroLib\Flash\FC1R52W1R82.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/IMLab_Git/IMLAB_PCB/AllegroLib/Flash/FC1R52W1R82.dra
+\i (00:00:05) trapsize 796
+\i (00:00:05) trapsize 723
+\i (00:00:05) trapsize 804
+\i (00:00:05) trapsize 725
+\i (00:00:05) trapsize 499
+\i (00:00:05) trapsize 499
+\i (00:00:05) generaledit 
+\i (00:00:30) exit 
+\e (00:00:30) Do you want to save the changes you made to FC1R52W1R82.dra?
+\i (00:00:31) fillin no 
+\t (00:00:31)     Journal end - Sat May 05 14:12:29 2018

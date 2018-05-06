@@ -1,0 +1,488 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : IMLAB_F103C8.brd                              )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 07 16:30:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(525.466 1190.248) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(466.656 1190.252) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(333.340 1190.248) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(274.530 1190.252) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(762.699 537.006) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(762.704 562.989) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.03937                     0.000 NO     DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724     135.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.04528      90.000 NO     DARK 
+  RECTANGLE  0.08858     x 0.09252      90.000 NO     DARK 
+  RECTANGLE  0.09055     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.09842     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.12795     x 0.07480       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(671.999 1404.974) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(647.998 1395.029) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(514.802 507.063) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(579.996 520.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(659.997 1400.003) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543     135.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (25.000 0.000)
+           ... using undefined line width of 6.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+    WARNING: text composed 0 width line found at (20.000 60.000)
+           ... using undefined line width of 6.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 6.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     SILKSCREEN_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  SQUARE     0.04724                     0.000 NO     DARK 
+  SQUARE     0.07559                     0.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.05512      45.000 NO     DARK 
+  RECTANGLE  0.01968     x 0.05512     135.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.04331      90.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.06496     x 0.05315      90.000 NO     DARK 
+  RECTANGLE  0.09646     x 0.10039      90.000 NO     DARK 
+  RECTANGLE  0.09842     x 0.02756      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.08661      90.000 NO     DARK 
+  RECTANGLE  0.13583     x 0.08268       0.000 NO     DARK 
+
+     SOLDERMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.07559                                  DARK 
+  SQUARE     0.07559                     0.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.04331      45.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.04331      90.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.04331     135.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.03937                     0.000 NO     DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724     135.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.04528      90.000 NO     DARK 
+  RECTANGLE  0.08858     x 0.09252      90.000 NO     DARK 
+  RECTANGLE  0.09055     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.09842     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.12795     x 0.07480       0.000 NO     DARK 
+
+     PASTEMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543     135.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_TOP >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/ASSEMBLY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.03937                     0.000 NO     DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.01181     x 0.04724     135.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.04528      90.000 NO     DARK 
+  RECTANGLE  0.08858     x 0.09252      90.000 NO     DARK 
+  RECTANGLE  0.09055     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.09842     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.12795     x 0.07480       0.000 NO     DARK 
+
+     ASSEMBLY_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY_BOTTOM >
+     TO FILE < F:/IMLab_Git/IMLAB_F103C8/ASSEMBLY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.03150                                  DARK 
+  CIRCLE     0.07165                                  DARK 
+  SQUARE     0.07165                     0.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      45.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03740     x 0.03543     135.000 NO     DARK 
+
+     ASSEMBLY_BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SILKSCREEN_TOP created with warnings
+        SILKSCREEN_BOTTOM created with warnings
+        DRILL created with warnings
+        SOLDERMASK_TOP created with warnings
+        SOLDERMASK_BOTTOM created with warnings
+        PASTEMASK_TOP created with warnings
+        PASTEMASK_BOTTOM created with warnings
+        ASSEMBLY_TOP created with warnings
+        ASSEMBLY_BOTTOM created with warnings
+
+ ARTWORK had warnings

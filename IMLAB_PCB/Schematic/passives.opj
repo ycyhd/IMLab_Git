@@ -1,0 +1,156 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\passives.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\passives.olb")
+      (Select "Design Resources" ".\passives.olb" "Capacitor"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1432 52 522")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5780 1742")
+        (Zoom "973"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "Xtal"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1458 78 548")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3661 1095")
+        (Zoom "648"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "Varistor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1484 104 574")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3674 1095")
+        (Zoom "648"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "TactileSwitch"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1510 130 600")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5848 1742")
+        (Zoom "973"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "S8550"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1536 156 626")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4160 1218")
+        (Zoom "721"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "S8050"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1562 182 652")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5828 1742")
+        (Zoom "973"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "Resistor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1588 208 678")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3356 1003")
+        (Zoom "608"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "PushButtonSwitch"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1380 0 470")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4744 1419")
+        (Zoom "811"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "LED"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1406 26 496")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "6068 1865")
+        (Zoom "1008"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "Inductor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1432 52 522")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4495 1394")
+        (Zoom "779"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "CMChoke"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1458 78 548")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5828 1742")
+        (Zoom "973"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "Capacitor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1484 104 574")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "5828 1742")
+        (Zoom "973"))
+      (Path "F:\IMLAB_GIT\IMLAB_PCB\SCHEMATIC\PASSIVES.OLB")
+      (Package "AECapactior"))))

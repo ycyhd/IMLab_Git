@@ -1,0 +1,4 @@
+原理图标识 
+https://www.rapidtables.com/electric/electrical_symbols.html
+最后步骤
+art drl rou(长方形孔) art_param.txt nc_param.txt

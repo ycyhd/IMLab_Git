@@ -1,0 +1,68 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Tue Apr 17 19:45:58 2018
+\t (00:00:03)         Host=DESKTOP-UK3BTFG User=ycyhd Pid=1724 CPUs=8
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/IMLab_Git/IMLAB_F103C8/IMLAB_F103C8.brd
+\i (00:00:05) trapsize 2169
+\i (00:00:05) trapsize 2130
+\i (00:00:05) trapsize 2176
+\i (00:00:05) trapsize 1922
+\i (00:00:05) trapsize 1922
+\i (00:00:05) generaledit 
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 326.416 -13.067
+\i (00:00:08) trapsize 3844
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 326.416 -13.067
+\i (00:00:08) trapsize 7688
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 312.578 25.371
+\i (00:00:08) trapsize 15375
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 447.880 548.126
+\i (00:00:08) trapsize 30750
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -91.020 954.490
+\i (00:00:09) trapsize 15375
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 410.210 871.464
+\i (00:00:09) trapsize 7688
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 676.200 776.139
+\i (00:00:10) trapsize 3844
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 490.929 776.908
+\i (00:00:13) trapsize 1922
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 491.698 774.986
+\i (00:00:13) trapsize 961
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 549.162 754.037
+\i (00:00:14) trapsize 1922
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 549.548 754.422
+\i (00:00:14) trapsize 3844
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 549.547 754.423
+\i (00:00:14) trapsize 7688
+\i (00:00:17) open 
+\i (00:00:26) fillin "F:\wangjialin\hardware\wangjl.brd"
+\i (00:00:26) cd "F:\wangjialin\hardware"
+\t (00:00:26) Opening existing design...
+\i (00:00:26) trapsize 1922
+\t (00:00:26)     Journal end - Tue Apr 17 19:46:20 2018

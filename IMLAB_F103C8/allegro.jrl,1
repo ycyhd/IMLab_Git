@@ -1,0 +1,41 @@
+\t (00:00:17) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:17)     Journal start - Sun Apr 15 11:54:42 2018
+\t (00:00:17)         Host=DESKTOP-UK3BTFG User=ycyhd Pid=14004 CPUs=8
+\t (00:00:17) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:17) 
+\d (00:00:17) Design opened: F:/IMLab_Git/IMLAB_F103C8/IMLAB_F103C8.brd
+\i (00:00:17) generaledit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 287.978 9.611
+\i (00:00:18) trapsize 3844
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 290.285 12.687
+\i (00:00:18) trapsize 7688
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 299.509 20.374
+\i (00:00:19) trapsize 15375
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 800.739 595.405
+\i (00:00:19) trapsize 30750
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 819.189 327.184
+\i (00:00:20) trapsize 15375
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 976.016 333.334
+\i (00:00:20) trapsize 7688
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 996.004 228.783
+\i (00:00:20) trapsize 3844
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 997.542 137.301
+\i (00:00:22) trapsize 1922
+\i (00:00:26) exit 
+\t (00:00:26)     Journal end - Sun Apr 15 11:54:52 2018

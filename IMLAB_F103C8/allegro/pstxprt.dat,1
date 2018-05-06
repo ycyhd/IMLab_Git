@@ -1,0 +1,430 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-24-2018 at 22:50:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='IMLAB_F103C8';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_C0603_20PF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS7388@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins7388@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins7388@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS445@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins445@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins445@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS471@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins471@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins471@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_C0603_20PF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS7372@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins7372@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins7372@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS1421@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins1421@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins1421@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'TCAPACTIOR_C1812_100UF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS2024@PASSIVES.TCAPACTIOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins2024@passives.\tcapactior.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins2024@passives.\tcapactior.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS1865@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins1865@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins1865@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS10999@COMMON.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins10999@common.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins10999@common.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS6803@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins6803@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins6803@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS385@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins385@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins385@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS419@PASSIVES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins419@passives.\capacitor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins419@passives.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS1528@PASSIVES.LED.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins1528@passives.\led.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins1528@passives.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149470@PASSIVES.LED.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149470@passives.\led.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149470@passives.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149498@PASSIVES.LED.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149498@passives.\led.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149498@passives.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149526@PASSIVES.LED.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149526@passives.\led.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149526@passives.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'SAFETYFUSE_SF0805_500MA':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS1086@PASSIVES.SAFETYFUSE.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins1086@passives.\safetyfuse.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins1086@passives.\safetyfuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER4X1_HEADER4X1_HEADER4X1':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS19009@HEADERS.HEADER4X1.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins19009@headers.\header4x1.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins19009@headers.\header4x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER4X1_HEADER4X1_HEADER4X1':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS10026@HEADERS.HEADER4X1.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins10026@headers.\header4x1.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins10026@headers.\header4x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER8X1_HEADER8X1_HEADER8X1':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149598@HEADERS.HEADER8X1.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149598@headers.\header8x1.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149598@headers.\header8x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER8X1_HEADER8X1_HEADER8X1':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149626@HEADERS.HEADER8X1.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149626@headers.\header8x1.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149626@headers.\header8x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER4X1_HEADER4X1_HEADER4X1':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS152667@HEADERS.HEADER4X1.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins152667@headers.\header4x1.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins152667@headers.\header4x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_L0603_BEAD':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS5919@PASSIVES.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins5919@passives.\inductor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins5919@passives.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS1617@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins1617@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins1617@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150431@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150431@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150431@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149290@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149290@analog.\r.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149290@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0603_100K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS7085@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins7085@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins7085@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS10078@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins10078@common.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins10078@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS10062@COMMON.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins10062@common.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins10062@common.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150061@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150061@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150061@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149346@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149346@analog.\r.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149346@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150279@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150279@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150279@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_R0603_510R':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149274@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149274@analog.\r.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149274@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0603_10K':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150355@PASSIVES.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150355@passives.\resistor.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150355@passives.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SWITCH_2PIN_SW3X6_SWITCH_2PIN':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS19199@PASSIVES.SWITCH_2PIN.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins19199@passives.\switch_2pin.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins19199@passives.\switch_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'SWITCH_2PIN_SW3X6_SWITCH_2PIN':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS149912@PASSIVES.SWITCH_2PIN.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins149912@passives.\switch_2pin.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins149912@passives.\switch_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S3 'SWITCH_2PIN_SW3X6_SWITCH_2PIN':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150255@PASSIVES.SWITCH_2PIN.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150255@passives.\switch_2pin.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150255@passives.\switch_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S4 'SWITCH_2PIN_SW3X6_SWITCH_2PIN':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150331@PASSIVES.SWITCH_2PIN.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150331@passives.\switch_2pin.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150331@passives.\switch_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S5 'SWITCH_2PIN_SW3X6_SWITCH_2PIN':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS150407@PASSIVES.SWITCH_2PIN.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins150407@passives.\switch_2pin.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins150407@passives.\switch_2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103X8/B_LQFP48_LQFP48P700':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS118@CHIPS.STM32F103X8/B_LQFP48.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins118@chips.\stm32f103x8/b_lqfp48.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins118@chips.\stm32f103x8/b_lqfp48.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MINIUSB_MINIUSB_MINIUSB':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS595@PASSIVES.MINIUSB.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins595@passives.\miniusb.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins595@passives.\miniusb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AMS1117_SOT223_AMS1117':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS7837@CHIPS.AMS1117.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins7837@chips.\ams1117.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins7837@chips.\ams1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL_HC49S_8M':;
+
+SECTION_NUMBER 1
+ '@IMLAB_F103C8.SCHEMATIC1(SCH_1):INS7347@PASSIVES.XTAL.NORMAL(CHIPS)':
+ C_PATH='@imlab_f103c8.schematic1(sch_1):ins7347@passives.\xtal.normal\(chips)',
+ P_PATH='@imlab_f103c8.schematic1(sch_1):page1_ins7347@passives.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
